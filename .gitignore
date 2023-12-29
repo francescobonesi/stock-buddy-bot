@@ -1,0 +1,6 @@
+*.pyc
+portfolio.csv
+config.ini
+webhook.txt
+venv
+.idea
