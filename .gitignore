@@ -1,6 +1,8 @@
 *.pyc
 portfolio.csv
+portfolio.csv.bk
 config.ini
+config.ini.bk
 webhook.txt
 venv
 .idea

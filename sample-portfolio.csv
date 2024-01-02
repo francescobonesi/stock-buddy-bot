@@ -1,0 +1,6 @@
+reference,ticker,operation,quantity,price,date
+0001,GOOGL,buy,38.12,90.7,2022-02-06
+0001,GOOGL,sell,23,122.65,2022-11-25
+0001,GOOGL,sell,5,124.16,2022-12-22
+0002,GOOGL,buy,10.34,100.3,2022-07-12
+0002,GOOGL,sell,6.45,98.23,2023-01-22
